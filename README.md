@@ -67,7 +67,7 @@
 
 * After the transformation process, the JSON format data is stored in the MongoDB database, also It has the option to migrate the data to MySQL database from the MongoDB database.
 
-### 5. E D A Process and Frame work
+### 5. E D A Process and Framework
 
 #### a) Access MySQL DB 
 
