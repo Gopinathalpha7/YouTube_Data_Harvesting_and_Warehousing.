@@ -7,7 +7,7 @@
 * This project extracts the particular youtube channel data by using the youtube channel id, processes the data, and stores it in the MongoDB database. It has the option to migrate the data to MySQL from MongoDB then analyse the data and give the results depending on the customer questions.
 
 
-![Intro GUI](youtube data harvesting gui.png)
+![Intro GUI](https://github.com/Gopinathalpha7/YouTube_Data_Harvesting_and_Warehousing./blob/766879148c29d88722d1c522fc78bd53640344cf/youtube%20data%20harvesting%20gui.png)
 
 
 ## Developer Guide 
