@@ -25,6 +25,8 @@
 
 * pip install google-api-python-client, pymongo, mysql-connector-python, sqlalchemy, pymysql, pymysql, pandas, numpy, 
   plotly-express, streamlit.
+  
+ ( pip install google-api-python-client pymongo mysql-connector-python sqlalchemy pymysql pandas numpy plotly-express streamlit )
  
 ### 3.Import Libraries
 
