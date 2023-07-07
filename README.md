@@ -12,7 +12,7 @@
 
 ## Developer Guide 
 
-### 1.Tools
+### 1. Tools Install
 
 * Virtual code.
 * Jupyter notebook.
@@ -21,14 +21,14 @@
 * MongoDB.
 * Youtube API key.
 
-### 2.Requirement Libraries to Install
+### 2. Requirement Libraries to Install
 
 * pip install google-api-python-client, pymongo, mysql-connector-python, sqlalchemy, pymysql, pymysql, pandas, numpy, 
   plotly-express, streamlit.
   
  ( pip install google-api-python-client pymongo mysql-connector-python sqlalchemy pymysql pandas numpy plotly-express streamlit )
  
-### 3.Import Libraries
+### 3. Import Libraries
 
 **Youtube API libraries**
 * import googleapiclient.discovery
@@ -51,7 +51,7 @@
 * import pandas as pd
 * import numpy as np
 
-**Dash board libraries**
+**Dashboard libraries**
 * import streamlit as st
 * import plotly.express as px
 
@@ -63,7 +63,7 @@
 
 #### b) Process and Transform the data
 
-* After the extraction process, takes the required details from the extraction data and transforms it into JSON format.
+* After the extraction process, takes the required details from the extraction data and transform it into JSON format.
 
 #### c) Load  data 
 
